@@ -15,11 +15,13 @@
 
 __Generales:__ 
 <br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
+<img align="bottom" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" width="30" height="30"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" width="30" height="30"/>
+
 <br />
 
 ---
@@ -29,6 +31,7 @@ __Desarrollo Web:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/swift/swift-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kotlin/kotlin-original.svg" width="30" height="30" />
+
 <br />
 
 ---

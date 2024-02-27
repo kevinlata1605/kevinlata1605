@@ -19,6 +19,7 @@ __Generales:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="30" height="30"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" width="30" height="30"/>
 <br />
@@ -27,7 +28,9 @@ __Generales:__
 __Desarrollo Web:__
 <br />
 <img align="bottom" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" width="30" height="30" />
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="30" height="30" />
+
 
 <br />
 
